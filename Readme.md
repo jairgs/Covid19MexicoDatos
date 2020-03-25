@@ -5,4 +5,4 @@ El archivo en CSV con el histórico de los casos confirmados es [allData.csv](/a
 
 A partir del 23 de marzo del 2020, se agregó el archivo de muertes por estado [deaths.csv](deaths.csv). 
 
-[Visita la aplicación]() en la que se utilizan estos datos. 
+[Visita la aplicación](https://covid19-mexico.herokuapp.com) en la que se utilizan estos datos. 
