@@ -12621,3 +12621,1893 @@ No,Estado,Sexo,Edad,Fecha inicio síntomas,Status,Procedencia,Fecha llegada Mexi
 1686,Ciudad De México,M,73.0,23/03/2020,Confirmado,España,14/03/2020,NA,2020/04/03
 1687,Ciudad De México,M,73.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/03
 1688,Ciudad De México,M,52.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/03
+1,Ciudad De México,M,35.0,22/02/2020,Confirmado,Italia,22/02/2020,NA,2020/04/04
+2,Sinaloa,M,41.0,22/02/2020,Confirmado,Italia,21/02/2020,NA,2020/04/04
+3,Ciudad De México,M,59.0,23/02/2020,Confirmado,Italia,22/02/2020,NA,2020/04/04
+4,Coahuila,F,20.0,27/02/2020,Confirmado,Italia,25/02/2020,NA,2020/04/04
+5,Chiapas,F,18.0,25/02/2020,Confirmado,Italia,25/02/2020,NA,2020/04/04
+6,México,M,71.0,21/02/2020,Confirmado,Italia,21/02/2020,NA,2020/04/04
+7,Ciudad De México,M,46.0,29/02/2020,Confirmado,Estados Unidos,29/02/2020,NA,2020/04/04
+8,Queretaro,M,43.0,09/03/2020,Confirmado,España,06/03/2020,NA,2020/04/04
+9,Ciudad De México,M,41.0,07/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+10,Ciudad De México,F,30.0,07/03/2020,Confirmado,España,06/03/2020,NA,2020/04/04
+11,México,F,64.0,02/03/2020,Confirmado,Estados Unidos,29/02/2020,NA,2020/04/04
+12,Nuevo León,M,57.0,04/03/2020,Confirmado,Alemania,03/03/2020,NA,2020/04/04
+13,México,F,55.0,09/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+14,Durango,M,58.0,06/03/2020,Confirmado,España,28/02/2020,NA,2020/04/04
+15,Queretaro,F,65.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+16,Queretaro,M,42.0,05/03/2020,Confirmado,Italia,05/03/2020,NA,2020/04/04
+17,Ciudad De México,M,48.0,10/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+18,Ciudad De México,M,38.0,10/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+19,Queretaro,F,43.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+20,Puebla,M,31.0,05/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+21,Ciudad De México,M,37.0,11/03/2020,Confirmado,Italia,11/03/2020,NA,2020/04/04
+22,Yucatán,F,57.0,07/03/2020,Confirmado,España,06/03/2020,NA,2020/04/04
+23,Ciudad De México,M,52.0,08/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+24,Ciudad De México,M,64.0,10/03/2020,Confirmado,Contacto,10/03/2020,NA,2020/04/04
+25,Ciudad De México,M,68.0,04/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+26,Quintana Roo,F,71.0,01/03/2020,Confirmado,Italia,01/03/2020,NA,2020/04/04
+27,San Luis Potosí,F,53.0,11/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+28,Nuevo León,M,73.0,09/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+29,Nuevo León,M,30.0,09/03/2020,Confirmado,España,07/03/2020,NA,2020/04/04
+30,Puebla,M,31.0,09/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+31,Ciudad De México,F,33.0,10/03/2020,Confirmado,Francia,08/03/2020,NA,2020/04/04
+32,Jalisco,F,54.0,10/03/2020,Confirmado,España,04/03/2020,NA,2020/04/04
+33,Jalisco,F,64.0,01/03/2020,Confirmado,Alemania,09/03/2020,NA,2020/04/04
+34,México,M,61.0,09/03/2020,Confirmado,Estados Unidos,03/03/2020,NA,2020/04/04
+35,Ciudad De México,M,45.0,07/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+36,Ciudad De México,F,62.0,11/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+37,Ciudad De México,M,72.0,09/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+38,Ciudad De México,M,41.0,10/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+39,Puebla,M,30.0,09/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+40,Ciudad De México,M,38.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+41,Oaxaca,F,30.0,09/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+42,Sinaloa,M,25.0,09/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+43,San Luis Potosí,F,23.0,07/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+44,Queretaro,F,54.0,10/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+45,Oaxaca,M,61.0,10/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+46,Queretaro,F,55.0,10/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+47,Nuevo León,M,27.0,11/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+48,Nuevo León,M,46.0,06/03/2020,Confirmado,Estados Unidos,03/03/2020,NA,2020/04/04
+49,Ciudad De México,F,49.0,09/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+50,Ciudad De México,M,50.0,10/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+51,Ciudad De México,M,41.0,10/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+52,Ciudad De México,M,66.0,08/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+53,Ciudad De México,F,63.0,09/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+54,Ciudad De México,M,53.0,09/03/2020,Confirmado,Francia,28/02/2020,NA,2020/04/04
+55,Ciudad De México,F,30.0,11/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+56,Ciudad De México,F,49.0,13/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+57,Ciudad De México,M,48.0,13/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+58,Guerrero,M,32.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+59,Durango,M,32.0,11/03/2020,Confirmado,Alemania,11/03/2020,NA,2020/04/04
+60,Guerrero,F,22.0,09/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+61,Puebla,F,27.0,05/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+62,Ciudad De México,F,70.0,07/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+63,Ciudad De México,M,32.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+64,Ciudad De México,M,59.0,07/03/2020,Confirmado,España,04/03/2020,NA,2020/04/04
+65,Ciudad De México,M,70.0,09/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+66,Durango,F,38.0,09/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+67,Aguascalientes,M,25.0,14/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+68,Puebla,F,31.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+69,Queretaro,F,45.0,13/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+70,México,M,27.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+71,México,F,47.0,05/03/2020,Confirmado,Estados Unidos,29/02/2020,NA,2020/04/04
+72,México,F,59.0,07/03/2020,Confirmado,Francia,08/03/2020,NA,2020/04/04
+73,Ciudad De México,M,41.0,09/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+74,Guanajuato,M,39.0,12/03/2020,Confirmado,Alemania,10/03/2020,NA,2020/04/04
+75,Nuevo León,M,72.0,11/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+76,Chihuahua,M,29.0,12/03/2020,Confirmado,Alemania,12/03/2020,NA,2020/04/04
+77,Quintana Roo,F,50.0,08/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+78,Quintana Roo,F,19.0,13/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+79,Quintana Roo,M,44.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+80,México,F,49.0,13/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+81,Puebla,M,32.0,11/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+82,Nuevo León,F,74.0,09/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+83,Nuevo León,F,80.0,09/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+84,Nuevo León,M,71.0,07/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+85,Nuevo León,M,53.0,09/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+86,Nuevo León,M,42.0,02/03/2020,Confirmado,Estados Unidos,02/03/2020,NA,2020/04/04
+87,México,M,45.0,11/03/2020,Confirmado,Estados Unidos,01/03/2020,NA,2020/04/04
+88,Nuevo León,M,33.0,09/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+89,Nuevo León,F,27.0,12/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+90,Yucatán,F,31.0,08/03/2020,Confirmado,Francia,10/03/2020,NA,2020/04/04
+91,Yucatán,M,21.0,13/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+92,Tamaulipas,M,55.0,13/03/2020,Confirmado,Singapur,11/03/2020,NA,2020/04/04
+93,Puebla,F,27.0,09/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+94,Puebla,M,31.0,09/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+95,Yucatán,F,54.0,11/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+96,Sonora,M,72.0,11/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+97,Jalisco,M,49.0,06/03/2020,Confirmado,España,04/03/2020,NA,2020/04/04
+98,Jalisco,M,41.0,10/03/2020,Confirmado,Estados Unidos,29/02/2020,NA,2020/04/04
+99,Jalisco,F,56.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+100,Yucatán,M,37.0,09/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+101,Nuevo León,M,19.0,07/03/2020,Confirmado,Contacto,10/03/2020,NA,2020/04/04
+102,Nuevo León,M,34.0,12/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+103,Nuevo León,M,41.0,10/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+104,Nuevo León,M,46.0,11/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+105,Nuevo León,M,21.0,14/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+106,Nuevo León,M,21.0,15/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+107,Yucatán,F,21.0,13/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+108,Yucatán,M,25.0,11/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+109,Jalisco,F,36.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+110,México,M,39.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+111,México,M,45.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+112,México,F,22.0,16/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+113,México,F,24.0,09/03/2020,Confirmado,Contacto,08/03/2020,NA,2020/04/04
+114,México,M,75.0,06/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+115,Ciudad De México,M,53.0,09/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+116,Ciudad De México,F,53.0,06/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+117,México,M,56.0,07/03/2020,Confirmado,Estados Unidos,05/03/2020,NA,2020/04/04
+118,Veracruz,F,21.0,03/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+119,México,M,61.0,08/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+120,México,M,21.0,07/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+121,México,F,23.0,07/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+122,Veracruz,M,24.0,14/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+123,México,M,55.0,09/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+124,México,M,31.0,13/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+125,San Luis Potosí,M,32.0,14/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+126,Puebla,M,25.0,10/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+127,Yucatán,F,26.0,08/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+128,Colima,M,46.0,15/03/2020,Confirmado,Alemania,13/03/2020,NA,2020/04/04
+129,Baja California,F,54.0,11/03/2020,Confirmado,Estados Unidos,02/03/2020,NA,2020/04/04
+130,Baja California,F,57.0,13/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+131,Ciudad De México,M,47.0,12/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+132,Ciudad De México,M,43.0,14/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+133,Hidalgo,M,39.0,07/03/2020,Confirmado,Francia,06/03/2020,NA,2020/04/04
+134,Sonora,M,44.0,12/03/2020,Confirmado,Italia,10/03/2020,NA,2020/04/04
+135,Tabasco,F,61.0,14/03/2020,Confirmado,Francia,16/03/2020,NA,2020/04/04
+136,Puebla,M,64.0,08/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+137,Sinaloa,F,25.0,15/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+138,Hidalgo,M,43.0,08/03/2020,Confirmado,Estados Unidos,10/02/2020,NA,2020/04/04
+139,San Luis Potosí,M,39.0,16/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+140,San Luis Potosí,M,31.0,15/03/2020,Confirmado,Francia,14/03/2020,NA,2020/04/04
+141,San Luis Potosí,M,44.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+142,San Luis Potosí,F,63.0,15/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+143,Ciudad De México,M,28.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+144,Puebla,F,24.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+145,Chiapas,M,63.0,23/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+146,Ciudad De México,M,35.0,10/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+147,Ciudad De México,M,29.0,10/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+148,Guanajuato,F,18.0,10/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+149,Tamaulipas,F,23.0,16/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+150,Quintana Roo,M,17.0,09/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+151,Quintana Roo,M,39.0,16/03/2020,Confirmado,Italia,01/03/2020,NA,2020/04/04
+152,Guerrero,M,79.0,15/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+153,Guanajuato,F,27.0,14/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+154,Guanajuato,F,52.0,12/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+155,Quintana Roo,M,42.0,14/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+156,Queretaro,M,25.0,08/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+157,Yucatán,F,27.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+158,Yucatán,M,51.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+159,Baja California,M,72.0,09/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+160,Yucatán,M,32.0,11/03/2020,Confirmado,Estados Unidos,NA,NA,2020/04/04
+161,Yucatán,M,30.0,16/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+162,Yucatán,M,45.0,13/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+163,Quintana Roo,M,45.0,15/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+164,Jalisco,M,54.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+165,Jalisco,M,27.0,13/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+166,Quintana Roo,F,22.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+167,Jalisco,F,49.0,12/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+168,Jalisco,M,19.0,16/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+169,Guerrero,F,38.0,13/03/2020,Confirmado,Estados Unidos,01/03/2020,NA,2020/04/04
+170,Ciudad De México,M,46.0,12/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+171,Ciudad De México,M,35.0,11/03/2020,Confirmado,Estados Unidos,05/03/2020,NA,2020/04/04
+172,Aguascalientes,M,70.0,15/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+173,Ciudad De México,M,59.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+174,Aguascalientes,M,50.0,16/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+175,Veracruz,F,64.0,18/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+176,Nuevo León,M,35.0,09/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+177,Nuevo León,M,42.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+178,Durango,M,74.0,15/03/2020,Confirmado,Estados Unidos,03/03/2020,NA,2020/04/04
+179,Morelos,M,37.0,14/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+180,Queretaro,M,34.0,15/03/2020,Confirmado,Francia,15/03/2020,NA,2020/04/04
+181,Veracruz,F,63.0,14/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+182,Nuevo León,F,29.0,13/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+183,Morelos,F,54.0,17/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+184,Jalisco,F,73.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+185,Jalisco,M,52.0,14/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+186,Jalisco,M,50.0,04/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+187,Quintana Roo,M,35.0,15/03/2020,Confirmado,Alemania,14/03/2020,NA,2020/04/04
+188,Quintana Roo,F,30.0,14/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+189,Nuevo León,M,28.0,14/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+190,Aguascalientes,M,42.0,10/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+191,Nuevo León,F,48.0,11/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+192,Jalisco,F,19.0,11/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+193,Jalisco,F,29.0,14/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+194,Jalisco,M,41.0,08/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+195,Jalisco,M,54.0,07/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+196,Jalisco,F,62.0,09/03/2020,Confirmado,Estados Unidos,23/02/2020,NA,2020/04/04
+197,Jalisco,M,42.0,12/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+198,Jalisco,M,49.0,13/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+199,Jalisco,M,29.0,08/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+200,Jalisco,M,19.0,14/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+201,Jalisco,M,63.0,14/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+202,Jalisco,F,35.0,11/03/2020,Confirmado,Italia,14/03/2020,NA,2020/04/04
+203,Jalisco,M,44.0,11/03/2020,Confirmado,Italia,11/03/2020,NA,2020/04/04
+204,Puebla,F,32.0,15/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+205,Chiapas,M,47.0,14/03/2020,Confirmado,Alemania,13/03/2020,NA,2020/04/04
+206,Queretaro,M,51.0,16/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+207,México,F,33.0,15/03/2020,Confirmado,España,05/03/2020,NA,2020/04/04
+208,México,M,31.0,03/03/2020,Confirmado,España,01/03/2020,NA,2020/04/04
+209,Baja California,M,62.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+210,Queretaro,M,34.0,18/03/2020,Confirmado,Francia,16/03/2020,NA,2020/04/04
+211,Ciudad De México,F,38.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+212,México,M,55.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+213,Nuevo León,M,53.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+214,Nuevo León,M,58.0,15/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+215,Nuevo León,M,61.0,15/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+216,Nuevo León,F,59.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+217,Tabasco,M,46.0,09/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+218,Jalisco,F,75.0,08/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+219,Jalisco,M,80.0,14/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+220,México,M,33.0,09/03/2020,Confirmado,Estados Unidos,01/03/2020,NA,2020/04/04
+221,Nuevo León,F,31.0,10/03/2020,Confirmado,Contacto,10/03/2020,NA,2020/04/04
+222,Ciudad De México,M,38.0,10/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+223,Ciudad De México,F,35.0,09/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+224,Ciudad De México,M,61.0,16/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+225,Ciudad De México,F,37.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+226,Ciudad De México,M,43.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+227,Baja California,M,26.0,15/03/2020,Confirmado,Francia,13/03/2020,NA,2020/04/04
+228,Hidalgo,F,57.0,14/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+229,Puebla,M,21.0,17/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+230,Baja California,F,34.0,11/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+231,Ciudad De México,M,0.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+232,Puebla,M,56.0,14/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+233,Nayarit,F,48.0,17/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+234,Puebla,M,24.0,14/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+235,Chihuahua,F,18.0,15/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+236,Baja California,M,39.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+237,Queretaro,F,29.0,10/03/2020,Confirmado,Estados Unidos,01/03/2020,NA,2020/04/04
+238,Jalisco,M,77.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+239,Tabasco,M,33.0,14/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+240,Aguascalientes,M,44.0,17/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+241,Jalisco,M,20.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+242,Zacatecas,M,38.0,08/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+243,Queretaro,M,29.0,18/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+244,Ciudad De México,M,33.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+245,Nuevo León,M,32.0,15/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+246,Nuevo León,F,27.0,18/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+247,Nuevo León,M,35.0,17/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+248,Puebla,F,30.0,16/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+249,Ciudad De México,M,27.0,15/03/2020,Confirmado,Francia,15/03/2020,NA,2020/04/04
+250,México,M,43.0,09/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+251,Ciudad De México,M,47.0,06/03/2020,Confirmado,Estados Unidos,02/03/2020,NA,2020/04/04
+252,Ciudad De México,M,43.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+253,Ciudad De México,M,71.0,04/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+254,Ciudad De México,F,25.0,09/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+255,Ciudad De México,M,43.0,08/03/2020,Confirmado,España,04/03/2020,NA,2020/04/04
+256,Ciudad De México,F,31.0,03/03/2020,Confirmado,Alemania,09/03/2020,NA,2020/04/04
+257,Veracruz,M,31.0,16/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+258,Queretaro,M,29.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+259,Durango,F,68.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+260,Baja California,F,26.0,13/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+261,San Luis Potosí,F,20.0,09/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+262,Ciudad De México,F,54.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+263,Jalisco,M,58.0,17/03/2020,Confirmado,Estados Unidos,04/03/2020,NA,2020/04/04
+264,Baja California,M,35.0,18/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+265,Veracruz,F,35.0,14/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+266,Jalisco,M,53.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+267,Veracruz,M,27.0,17/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+268,Quintana Roo,M,51.0,11/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+269,Tamaulipas,F,33.0,16/03/2020,Confirmado,Francia,07/03/2020,NA,2020/04/04
+270,San Luis Potosí,M,46.0,12/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+271,Ciudad De México,M,42.0,06/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+272,Ciudad De México,F,35.0,16/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+273,Jalisco,M,29.0,17/03/2020,Confirmado,Singapur,09/03/2020,NA,2020/04/04
+274,Tabasco,F,37.0,10/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+275,Ciudad De México,M,47.0,14/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+276,Ciudad De México,M,34.0,14/03/2020,Confirmado,Francia,12/03/2020,NA,2020/04/04
+277,Jalisco,M,55.0,09/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+278,Ciudad De México,F,40.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+279,Jalisco,M,58.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+280,Baja California Sur,M,48.0,16/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+281,Coahuila,F,41.0,18/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+282,Chihuahua,M,47.0,18/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+283,Ciudad De México,F,48.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+284,Ciudad De México,M,35.0,08/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+285,Coahuila,M,29.0,17/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+286,Ciudad De México,M,52.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+287,Ciudad De México,M,25.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+288,Michoacán,M,36.0,09/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+289,Sinaloa,M,55.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+290,Baja California,M,27.0,13/03/2020,Confirmado,Francia,13/03/2020,NA,2020/04/04
+291,Chihuahua,F,19.0,13/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+292,Ciudad De México,M,37.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+293,Chihuahua,F,21.0,16/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+294,Ciudad De México,M,51.0,17/03/2020,Confirmado,Contacto,08/03/2020,NA,2020/04/04
+295,Yucatán,F,40.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+296,Ciudad De México,M,36.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+297,Hidalgo,F,55.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+298,San Luis Potosí,F,27.0,17/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+299,Jalisco,F,38.0,15/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+300,San Luis Potosí,M,21.0,19/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+301,San Luis Potosí,M,34.0,18/03/2020,Confirmado,Francia,05/03/2020,NA,2020/04/04
+302,Campeche,M,52.0,12/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+303,Hidalgo,F,26.0,18/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+304,Tabasco,F,71.0,17/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+305,Yucatán,F,17.0,10/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+306,Yucatán,F,19.0,10/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+307,Yucatán,M,39.0,14/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+308,Sonora,M,30.0,18/03/2020,Confirmado,Francia,13/03/2020,NA,2020/04/04
+309,Michoacán,F,57.0,15/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+310,Michoacán,M,57.0,18/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+311,Yucatán,M,31.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+312,Baja California,F,49.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+313,Zacatecas,M,39.0,19/03/2020,Confirmado,Contacto,19/03/2020,NA,2020/04/04
+314,Colima,F,34.0,12/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+315,México,M,44.0,19/02/2020,Confirmado,Italia,22/02/2020,NA,2020/04/04
+316,México,F,52.0,10/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+317,Coahuila,M,43.0,16/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+318,México,M,31.0,13/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+319,Guanajuato,M,34.0,16/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+320,Guanajuato,F,58.0,16/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+321,Guanajuato,M,43.0,18/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+322,Tamaulipas,F,21.0,16/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+323,Jalisco,M,25.0,13/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+324,Jalisco,M,40.0,10/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+325,Jalisco,F,38.0,11/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+326,Jalisco,M,32.0,13/03/2020,Confirmado,Estados Unidos,02/03/2020,NA,2020/04/04
+327,Jalisco,M,30.0,18/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+328,Coahuila,M,42.0,18/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+329,Coahuila,M,11.0,18/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+330,Coahuila,M,53.0,17/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+331,Coahuila,M,42.0,18/03/2020,Confirmado,Estados Unidos,NA,NA,2020/04/04
+332,México,M,46.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+333,México,M,62.0,16/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+334,Jalisco,M,24.0,17/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+335,Yucatán,F,42.0,18/03/2020,Confirmado,Francia,18/03/2020,NA,2020/04/04
+336,Coahuila,F,30.0,13/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+337,Hidalgo,F,40.0,19/03/2020,Confirmado,Contacto,13/03/2020,NA,2020/04/04
+338,Nuevo León,M,60.0,14/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+339,Oaxaca,M,22.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+340,Nuevo León,M,57.0,13/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+341,Nuevo León,M,22.0,14/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+342,Coahuila,M,76.0,20/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+343,Coahuila,M,42.0,20/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+344,Coahuila,F,42.0,20/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+345,Hidalgo,F,19.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+346,Sonora,M,22.0,11/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+347,Baja California Sur,F,33.0,16/03/2020,Confirmado,Contacto,07/03/2020,NA,2020/04/04
+348,Queretaro,M,37.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+349,Jalisco,M,55.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+350,México,M,24.0,20/03/2020,Confirmado,Italia,14/03/2020,NA,2020/04/04
+351,México,F,29.0,20/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+352,México,F,29.0,12/03/2020,Confirmado,Estados Unidos,27/02/2020,NA,2020/04/04
+353,Queretaro,F,30.0,21/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+354,Ciudad De México,M,20.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+355,Campeche,F,59.0,06/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+356,Quintana Roo,M,65.0,18/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+357,Puebla,M,29.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+358,Puebla,M,33.0,13/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+359,México,M,63.0,12/03/2020,Confirmado,España,04/03/2020,NA,2020/04/04
+360,Jalisco,M,28.0,16/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+361,Puebla,F,49.0,14/03/2020,Confirmado,España,04/03/2020,NA,2020/04/04
+362,Baja California,M,30.0,19/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+363,Zacatecas,M,28.0,18/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+364,México,M,51.0,05/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+365,Ciudad De México,M,38.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+366,Ciudad De México,M,37.0,15/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+367,Puebla,F,28.0,15/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+368,Tabasco,M,30.0,13/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+369,Quintana Roo,M,60.0,17/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+370,Quintana Roo,M,46.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+371,Aguascalientes,M,18.0,19/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+372,Quintana Roo,F,12.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+373,Quintana Roo,F,52.0,17/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+374,Quintana Roo,M,16.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+375,Jalisco,F,24.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+376,Jalisco,M,19.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+377,Michoacán,F,48.0,15/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+378,Michoacán,M,58.0,15/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+379,Quintana Roo,M,44.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+380,San Luis Potosí,M,37.0,19/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+381,San Luis Potosí,F,32.0,18/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+382,San Luis Potosí,M,38.0,18/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+383,Michoacán,F,50.0,15/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+384,Michoacán,M,56.0,15/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+385,Ciudad De México,M,44.0,11/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+386,San Luis Potosí,M,70.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+387,México,M,60.0,14/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+388,Guanajuato,F,20.0,15/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+389,Guanajuato,F,32.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+390,Puebla,F,39.0,18/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+391,Nuevo León,F,63.0,13/03/2020,Confirmado,Francia,14/03/2020,NA,2020/04/04
+392,Baja California,M,51.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+393,Guerrero,F,36.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+394,Quintana Roo,F,21.0,18/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+395,Quintana Roo,F,19.0,11/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+396,Quintana Roo,M,48.0,19/03/2020,Confirmado,Contacto,13/03/2020,NA,2020/04/04
+397,Tamaulipas,M,29.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+398,Oaxaca,F,34.0,20/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+399,Nuevo León,F,30.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+400,Nuevo León,M,55.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+401,Nuevo León,M,32.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+402,Nuevo León,M,35.0,17/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+403,Nuevo León,M,39.0,14/03/2020,Confirmado,Contacto,13/03/2020,NA,2020/04/04
+404,Ciudad De México,M,77.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+405,Ciudad De México,F,45.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+406,Nuevo León,M,37.0,17/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+407,Ciudad De México,M,52.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+408,Nuevo León,M,40.0,11/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+409,Nuevo León,F,66.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+410,Nuevo León,M,20.0,15/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+411,Nuevo León,M,21.0,14/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+412,Nuevo León,F,24.0,17/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+413,Nuevo León,M,42.0,13/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+414,Yucatán,M,63.0,08/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+415,Nuevo León,F,27.0,20/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+416,Nuevo León,M,28.0,14/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+417,Nuevo León,M,30.0,15/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+418,Puebla,F,76.0,17/03/2020,Confirmado,Estados Unidos,20/03/2020,NA,2020/04/04
+419,Ciudad De México,F,61.0,16/03/2020,Confirmado,Italia,12/03/2020,NA,2020/04/04
+420,Nuevo León,F,27.0,09/03/2020,Confirmado,Italia,07/03/2020,NA,2020/04/04
+421,Yucatán,M,38.0,08/03/2020,Confirmado,España,04/03/2020,NA,2020/04/04
+422,Puebla,M,37.0,16/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+423,Guerrero,F,74.0,08/03/2020,Confirmado,España,04/03/2020,NA,2020/04/04
+424,Puebla,M,51.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+425,Puebla,F,66.0,15/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+426,Puebla,M,28.0,16/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+427,Ciudad De México,F,47.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+428,Puebla,M,73.0,16/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+429,Aguascalientes,F,40.0,18/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+430,Ciudad De México,M,76.0,10/03/2020,Confirmado,Francia,11/03/2020,NA,2020/04/04
+431,Guanajuato,F,56.0,16/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+432,Guanajuato,F,53.0,16/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+433,Guanajuato,F,48.0,21/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+434,Aguascalientes,F,47.0,12/03/2020,Confirmado,Contacto,08/03/2020,NA,2020/04/04
+435,Ciudad De México,M,46.0,17/03/2020,Confirmado,Estados Unidos,02/03/2020,NA,2020/04/04
+436,Michoacán,M,49.0,15/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+437,Ciudad De México,M,10.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+438,Ciudad De México,F,88.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+439,Yucatán,M,28.0,19/03/2020,Confirmado,Francia,15/03/2020,NA,2020/04/04
+440,Yucatán,F,30.0,19/03/2020,Confirmado,Francia,18/03/2020,NA,2020/04/04
+441,Yucatán,F,40.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+442,Ciudad De México,F,79.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+443,Aguascalientes,M,47.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+444,Ciudad De México,M,38.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+445,Puebla,F,23.0,11/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+446,Ciudad De México,M,64.0,15/03/2020,Confirmado,Francia,11/03/2020,NA,2020/04/04
+447,Ciudad De México,M,76.0,21/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+448,Chihuahua,F,18.0,21/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+449,Nayarit,F,66.0,19/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+450,México,M,67.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+451,Puebla,F,69.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+452,México,F,62.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+453,Puebla,M,72.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+454,Puebla,F,38.0,18/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+455,Oaxaca,F,62.0,20/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+456,Oaxaca,M,56.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+457,Oaxaca,F,21.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+458,Guerrero,F,82.0,23/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+459,Puebla,F,48.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+460,Puebla,M,31.0,13/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+461,Puebla,M,26.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+462,Yucatán,M,51.0,18/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+463,Yucatán,F,60.0,10/03/2020,Confirmado,Francia,19/03/2020,NA,2020/04/04
+464,Puebla,M,24.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+465,Guerrero,M,29.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+466,Guanajuato,F,56.0,16/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+467,Guanajuato,F,22.0,17/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+468,Guanajuato,M,65.0,20/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+469,Guanajuato,F,47.0,16/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+470,Guanajuato,M,29.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+471,Guanajuato,F,41.0,18/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+472,Tabasco,F,57.0,18/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+473,Hidalgo,F,16.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+474,Hidalgo,M,17.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+475,Guanajuato,M,24.0,15/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+476,Jalisco,M,36.0,15/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+477,Jalisco,F,25.0,13/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+478,Ciudad De México,F,60.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+479,Ciudad De México,M,28.0,02/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+480,Quintana Roo,M,42.0,21/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+481,Ciudad De México,F,53.0,10/03/2020,Confirmado,Francia,18/03/2020,NA,2020/04/04
+482,Jalisco,F,50.0,12/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+483,Jalisco,F,38.0,20/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+484,Ciudad De México,M,47.0,17/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+485,Ciudad De México,M,20.0,16/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+486,Michoacán,F,49.0,16/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+487,Ciudad De México,F,29.0,16/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+488,Tamaulipas,M,75.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+489,Baja California Sur,M,40.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+490,Baja California Sur,F,31.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+491,Jalisco,M,49.0,12/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+492,México,M,45.0,16/03/2020,Confirmado,Estados Unidos,03/03/2020,NA,2020/04/04
+493,Chiapas,M,45.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+494,Tlaxcala,F,19.0,16/03/2020,Confirmado,Estados Unidos,21/03/2020,NA,2020/04/04
+495,Ciudad De México,F,65.0,16/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+496,Ciudad De México,F,34.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+497,Morelos,F,35.0,16/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+498,Aguascalientes,M,53.0,23/03/2020,Confirmado,España,23/03/2020,NA,2020/04/04
+499,Ciudad De México,M,45.0,13/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+500,Baja California,F,50.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+501,Jalisco,F,33.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+502,Jalisco,F,20.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+503,Baja California Sur,M,46.0,21/03/2020,Confirmado,Estados Unidos,20/03/2020,NA,2020/04/04
+504,Aguascalientes,F,59.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+505,Hidalgo,F,24.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+506,Quintana Roo,M,20.0,13/03/2020,Confirmado,Estados Unidos,21/03/2020,NA,2020/04/04
+507,Ciudad De México,M,58.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+508,Puebla,F,31.0,16/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+509,Jalisco,M,58.0,20/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+510,Michoacán,F,69.0,15/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+511,Aguascalientes,M,60.0,20/03/2020,Confirmado,Francia,12/03/2020,NA,2020/04/04
+512,Quintana Roo,F,30.0,21/03/2020,Confirmado,Francia,21/03/2020,NA,2020/04/04
+513,Sinaloa,F,47.0,16/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+514,Jalisco,F,20.0,20/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+515,Jalisco,M,72.0,18/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+516,Yucatán,M,30.0,18/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+517,Oaxaca,F,16.0,23/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+518,Yucatán,F,42.0,22/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+519,Jalisco,M,54.0,12/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+520,Queretaro,M,21.0,22/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+521,México,M,69.0,18/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+522,Jalisco,M,21.0,12/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+523,Hidalgo,M,71.0,16/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+524,Jalisco,F,49.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+525,Quintana Roo,M,74.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+526,Quintana Roo,M,51.0,12/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+527,Jalisco,F,48.0,06/03/2020,Confirmado,Estados Unidos,05/02/2020,NA,2020/04/04
+528,Jalisco,F,20.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+529,Queretaro,F,46.0,20/03/2020,Confirmado,Francia,06/03/2020,NA,2020/04/04
+530,Jalisco,M,72.0,12/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+531,México,F,26.0,18/03/2020,Confirmado,España,21/03/2020,NA,2020/04/04
+532,Puebla,F,22.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+533,Nuevo León,F,30.0,18/03/2020,Confirmado,España,16/03/2019,NA,2020/04/04
+534,Puebla,F,47.0,16/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+535,Puebla,M,42.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+536,Jalisco,M,50.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+537,San Luis Potosí,F,33.0,22/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+538,Puebla,M,48.0,16/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+539,Sinaloa,F,30.0,17/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+540,Sinaloa,M,72.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+541,Coahuila,M,42.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+542,Nuevo León,F,26.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+543,Baja California,F,50.0,15/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+544,Morelos,F,61.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+545,Sonora,M,44.0,17/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+546,Tabasco,M,46.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+547,Nuevo León,M,26.0,18/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+548,Nuevo León,M,41.0,09/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+549,Sonora,M,24.0,17/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+550,Nayarit,M,53.0,21/03/2020,Confirmado,Contacto,24/03/2020,NA,2020/04/04
+551,Puebla,M,27.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+552,Puebla,F,35.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+553,Nayarit,M,53.0,24/03/2020,Confirmado,Contacto,24/03/2020,NA,2020/04/04
+554,Michoacán,F,62.0,15/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+555,Sonora,F,50.0,20/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+556,Yucatán,M,53.0,19/03/2020,Confirmado,Contacto,12/03/2020,NA,2020/04/04
+557,Queretaro,M,38.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+558,Aguascalientes,F,74.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+559,Yucatán,M,23.0,17/03/2020,Confirmado,Francia,21/03/2020,NA,2020/04/04
+560,Yucatán,M,58.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+561,Yucatán,M,67.0,22/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+562,Sinaloa,M,26.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+563,Queretaro,M,23.0,20/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+564,Quintana Roo,M,75.0,25/03/2020,Confirmado,Contacto,20/03/2020,NA,2020/04/04
+565,Tabasco,F,28.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+566,Quintana Roo,F,49.0,20/03/2020,Confirmado,Estados Unidos,20/03/2020,NA,2020/04/04
+567,Queretaro,F,62.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+568,Ciudad De México,M,64.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+569,Sonora,F,45.0,15/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+570,Nayarit,F,32.0,10/03/2020,Confirmado,Francia,18/03/2020,NA,2020/04/04
+571,Veracruz,F,26.0,15/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+572,Nuevo León,F,57.0,19/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+573,Veracruz,F,33.0,16/03/2020,Confirmado,Estados Unidos,27/02/2020,NA,2020/04/04
+574,México,M,42.0,15/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+575,Ciudad De México,M,37.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+576,Veracruz,F,40.0,12/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+577,Veracruz,M,46.0,15/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+578,Veracruz,M,40.0,12/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+579,Veracruz,F,39.0,12/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+580,Veracruz,M,51.0,19/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+581,Nuevo León,M,40.0,05/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+582,Guanajuato,M,67.0,16/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+583,Guanajuato,M,51.0,20/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+584,México,F,34.0,13/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+585,Guanajuato,F,28.0,20/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+586,Zacatecas,F,57.0,12/03/2020,Confirmado,Contacto,29/02/2020,NA,2020/04/04
+587,Guanajuato,F,59.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+588,Guanajuato,M,26.0,15/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+589,Baja California,M,25.0,20/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+590,Jalisco,F,19.0,17/03/2020,Confirmado,Francia,11/03/2020,NA,2020/04/04
+591,Jalisco,F,19.0,16/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+592,Baja California,F,41.0,20/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+593,Baja California Sur,M,44.0,20/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+594,Baja California,M,30.0,16/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+595,Puebla,M,50.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+596,Baja California,F,64.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+597,Baja California Sur,M,66.0,22/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+598,Tlaxcala,M,38.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+599,Puebla,F,60.0,16/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+600,Ciudad De México,F,55.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+601,Coahuila,F,41.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+602,Tabasco,F,26.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+603,Oaxaca,F,41.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+604,México,M,60.0,13/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+605,Tabasco,F,53.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+606,Tabasco,M,31.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+607,Durango,M,25.0,23/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+608,Tabasco,F,23.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+609,Tabasco,F,29.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+610,Ciudad De México,M,49.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+611,Tabasco,M,67.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+612,Ciudad De México,F,49.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+613,Puebla,M,44.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+614,Oaxaca,F,20.0,22/03/2020,Confirmado,Contacto,19/03/2020,NA,2020/04/04
+615,Oaxaca,M,36.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+616,Puebla,M,27.0,23/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+617,Tabasco,F,29.0,24/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+618,Michoacán,F,60.0,18/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+619,Tlaxcala,M,45.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+620,Michoacán,F,25.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+621,Ciudad De México,M,25.0,19/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+622,Nuevo León,M,42.0,19/03/2020,Confirmado,Francia,20/03/2020,NA,2020/04/04
+623,Chiapas,F,32.0,22/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+624,Ciudad De México,M,36.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+625,Sinaloa,M,42.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+626,Durango,M,80.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+627,Tabasco,M,31.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+628,Tabasco,F,58.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+629,Tlaxcala,F,56.0,22/03/2020,Confirmado,Estados Unidos,21/03/2020,NA,2020/04/04
+630,México,F,68.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+631,México,F,49.0,02/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+632,México,F,56.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+633,Nuevo León,M,23.0,14/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+634,México,M,36.0,16/03/2020,Confirmado,España,03/03/2020,NA,2020/04/04
+635,México,F,33.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+636,Hidalgo,F,49.0,23/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+637,Tabasco,M,51.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+638,México,F,36.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+639,Tabasco,F,68.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+640,Chiapas,M,42.0,21/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+641,San Luis Potosí,M,56.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+642,México,F,33.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+643,Tabasco,M,26.0,09/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+644,México,F,28.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+645,México,F,43.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+646,México,F,46.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+647,México,F,28.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+648,México,M,41.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+649,México,F,44.0,05/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+650,Guanajuato,F,52.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+651,Yucatán,F,66.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+652,México,M,37.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+653,Yucatán,M,72.0,19/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+654,Yucatán,M,36.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+655,México,F,51.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+656,México,M,40.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+657,Yucatán,F,67.0,17/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+658,Ciudad De México,M,31.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+659,Jalisco,M,33.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+660,Jalisco,M,23.0,17/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+661,Veracruz,M,33.0,12/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+662,Yucatán,M,46.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+663,Veracruz,M,38.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+664,Veracruz,F,37.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+665,Ciudad De México,M,41.0,16/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+666,Jalisco,F,56.0,16/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+667,Jalisco,M,48.0,12/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+668,Ciudad De México,F,35.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+669,Ciudad De México,F,50.0,01/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+670,Baja California,M,28.0,18/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+671,Veracruz,M,21.0,20/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+672,Ciudad De México,F,35.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+673,Queretaro,F,34.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+674,Queretaro,M,58.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+675,México,M,37.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+676,México,M,42.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+677,Ciudad De México,M,47.0,20/03/2020,Confirmado,Contacto,06/03/2020,NA,2020/04/04
+678,Ciudad De México,F,45.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+679,Aguascalientes,F,32.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+680,Nuevo León,M,64.0,18/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+681,Veracruz,F,74.0,18/03/2020,Confirmado,Contacto,17/03/2020,NA,2020/04/04
+682,Jalisco,F,50.0,01/03/2020,Confirmado,Estados Unidos,NA,NA,2020/04/04
+683,Jalisco,F,49.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+684,México,F,36.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+685,México,F,47.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+686,Jalisco,F,34.0,16/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+687,Veracruz,F,46.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+688,Puebla,M,77.0,21/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+689,Puebla,M,40.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+690,Jalisco,F,29.0,21/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+691,Guanajuato,F,60.0,20/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+692,Jalisco,F,25.0,17/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+693,Guanajuato,M,19.0,20/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+694,Guanajuato,F,63.0,22/03/2020,Confirmado,Contacto,22/03/2020,NA,2020/04/04
+695,Guanajuato,F,43.0,22/03/2020,Confirmado,Estados Unidos,24/03/2020,NA,2020/04/04
+696,Michoacán,M,64.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+697,Michoacán,M,71.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+698,Veracruz,M,51.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+699,Jalisco,F,65.0,12/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+700,Aguascalientes,F,43.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+701,Aguascalientes,F,65.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+702,Sonora,F,56.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+703,Ciudad De México,M,35.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+704,Nuevo León,F,23.0,22/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+705,Aguascalientes,M,24.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+706,Guanajuato,M,21.0,21/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+707,Jalisco,M,64.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+708,Jalisco,F,18.0,22/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+709,Jalisco,F,13.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+710,Nuevo León,M,28.0,20/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+711,Michoacán,F,66.0,22/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+712,Aguascalientes,F,5.0,25/03/2020,Confirmado,Contacto,25/03/2020,NA,2020/04/04
+713,Queretaro,F,47.0,17/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+714,Aguascalientes,F,37.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+715,Baja California Sur,M,59.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+716,Guanajuato,F,37.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+717,Puebla,F,39.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+718,Puebla,F,22.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+719,San Luis Potosí,F,47.0,18/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+720,Veracruz,M,23.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+721,Ciudad De México,M,52.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+722,Ciudad De México,M,56.0,20/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+723,Veracruz,M,35.0,21/03/2020,Confirmado,Contacto,17/03/2020,NA,2020/04/04
+724,Jalisco,M,77.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+725,Sinaloa,F,39.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+726,Jalisco,M,21.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+727,Sinaloa,F,78.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+728,Oaxaca,F,56.0,24/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+729,Jalisco,F,52.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+730,Jalisco,M,50.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+731,Puebla,F,24.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+732,Puebla,M,47.0,21/03/2020,Confirmado,Alemania,16/03/2020,NA,2020/04/04
+733,Sinaloa,F,53.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+734,Baja California Sur,M,73.0,24/03/2020,Confirmado,Contacto,26/03/2020,NA,2020/04/04
+735,Sonora,F,25.0,17/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+736,Ciudad De México,F,44.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+737,Sinaloa,M,43.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+738,Nuevo León,M,27.0,19/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+739,Queretaro,F,66.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+740,Ciudad De México,M,40.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+741,Ciudad De México,M,64.0,09/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+742,Ciudad De México,M,37.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+743,Sinaloa,F,81.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+744,Ciudad De México,M,65.0,12/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+745,Ciudad De México,M,58.0,19/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+746,Ciudad De México,M,76.0,15/03/2020,Confirmado,Contacto,17/03/2020,NA,2020/04/04
+747,Puebla,F,24.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+748,Ciudad De México,F,59.0,09/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+749,Ciudad De México,M,59.0,09/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+750,Ciudad De México,F,37.0,09/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+751,Ciudad De México,F,31.0,07/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+752,Jalisco,F,40.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+753,Ciudad De México,M,35.0,08/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+754,Ciudad De México,M,29.0,13/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+755,Ciudad De México,M,23.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+756,Ciudad De México,M,43.0,14/03/2020,Confirmado,España,05/03/2020,NA,2020/04/04
+757,Ciudad De México,F,20.0,14/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+758,Ciudad De México,F,50.0,09/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+759,Ciudad De México,F,52.0,17/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+760,Ciudad De México,M,27.0,18/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+761,Ciudad De México,M,55.0,10/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+762,Ciudad De México,M,26.0,11/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+763,Ciudad De México,F,33.0,18/03/2020,Confirmado,Contacto,12/03/2020,NA,2020/04/04
+764,Baja California,F,28.0,18/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+765,Ciudad De México,F,33.0,19/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+766,Quintana Roo,F,32.0,20/03/2020,Confirmado,Francia,19/03/2020,NA,2020/04/04
+767,Puebla,M,22.0,14/03/2020,Confirmado,España,20/03/2020,NA,2020/04/04
+768,Ciudad De México,M,60.0,18/03/2020,Confirmado,Contacto,13/03/2020,NA,2020/04/04
+769,Ciudad De México,M,48.0,20/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+770,Ciudad De México,M,33.0,13/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+771,Ciudad De México,F,31.0,18/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+772,Ciudad De México,F,36.0,18/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+773,Puebla,F,45.0,21/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+774,Ciudad De México,F,30.0,17/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+775,Ciudad De México,M,34.0,17/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+776,Quintana Roo,M,44.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+777,Quintana Roo,F,53.0,17/03/2020,Confirmado,Francia,15/03/2020,NA,2020/04/04
+778,Quintana Roo,M,35.0,02/03/2020,Confirmado,Italia,15/03/2020,NA,2020/04/04
+779,Ciudad De México,M,38.0,13/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+780,Quintana Roo,M,56.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+781,Ciudad De México,M,26.0,20/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+782,Ciudad De México,M,29.0,16/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+783,Ciudad De México,M,26.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+784,Ciudad De México,M,72.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+785,Ciudad De México,M,39.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+786,Ciudad De México,F,47.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+787,Yucatán,F,37.0,19/02/2020,Confirmado,Contacto,21/01/2020,NA,2020/04/04
+788,Ciudad De México,M,51.0,22/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+789,Ciudad De México,M,45.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+790,México,M,43.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+791,México,M,56.0,23/03/2020,Confirmado,España,23/03/2020,NA,2020/04/04
+792,Ciudad De México,M,60.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+793,México,M,36.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+794,Ciudad De México,F,30.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+795,México,M,58.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+796,México,M,71.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+797,México,F,2.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+798,México,M,35.0,24/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+799,Ciudad De México,M,49.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+800,México,F,57.0,24/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+801,México,F,33.0,21/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+802,Ciudad De México,F,30.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+803,Hidalgo,M,29.0,23/03/2020,Confirmado,España,23/03/2020,NA,2020/04/04
+804,Guanajuato,M,29.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+805,Ciudad De México,M,33.0,19/03/2020,Confirmado,Francia,17/03/2020,NA,2020/04/04
+806,Hidalgo,M,41.0,18/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+807,Ciudad De México,M,41.0,17/03/2020,Confirmado,Contacto,17/03/2020,NA,2020/04/04
+808,México,F,34.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+809,México,M,52.0,24/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+810,Ciudad De México,M,24.0,15/03/2020,Confirmado,Francia,11/03/2020,NA,2020/04/04
+811,Ciudad De México,F,31.0,19/03/2020,Confirmado,Francia,04/03/2020,NA,2020/04/04
+812,Coahuila,F,61.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+813,Ciudad De México,M,40.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+814,Ciudad De México,M,36.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+815,Ciudad De México,F,54.0,15/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+816,México,M,58.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+817,México,M,21.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+818,Baja California,M,43.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+819,Hidalgo,M,61.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+820,Tabasco,F,60.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+821,México,F,46.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+822,México,F,70.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+823,Hidalgo,M,46.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+824,Ciudad De México,M,34.0,14/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+825,Guerrero,M,36.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+826,México,F,3.0,23/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+827,Guerrero,M,53.0,20/03/2020,Confirmado,Estados Unidos,11/03/2020,NA,2020/04/04
+828,Ciudad De México,M,53.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+829,Guanajuato,M,54.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+830,Ciudad De México,M,48.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+831,Guanajuato,M,33.0,21/03/2020,Confirmado,Italia,16/03/2020,NA,2020/04/04
+832,Aguascalientes,M,40.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+833,Guanajuato,M,30.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+834,Campeche,M,18.0,18/03/2020,Confirmado,Estados Unidos,25/02/2020,NA,2020/04/04
+835,Guerrero,M,63.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+836,Tabasco,F,49.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+837,San Luis Potosí,F,24.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+838,Tabasco,M,36.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+839,Tabasco,F,65.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+840,Puebla,F,23.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+841,Tamaulipas,M,50.0,21/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+842,México,M,18.0,07/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+843,Michoacán,F,63.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+844,Guanajuato,M,30.0,22/03/2020,Confirmado,España,22/03/2020,NA,2020/04/04
+845,Coahuila,F,41.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+846,Guanajuato,F,35.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+847,Puebla,M,55.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+848,Yucatán,F,59.0,17/03/2020,Confirmado,Contacto,24/03/2020,NA,2020/04/04
+849,Yucatán,F,31.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+850,Ciudad De México,F,28.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+851,México,F,54.0,14/03/2020,Confirmado,Contacto,09/03/2020,NA,2020/04/04
+852,Ciudad De México,M,40.0,16/03/2020,Confirmado,Contacto,29/02/2020,NA,2020/04/04
+853,Ciudad De México,F,43.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+854,Ciudad De México,F,33.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+855,Ciudad De México,M,29.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+856,Puebla,M,26.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+857,Ciudad De México,M,65.0,19/03/2020,Confirmado,España,09/03/2020,NA,2020/04/04
+858,Ciudad De México,M,40.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+859,Ciudad De México,M,43.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+860,Ciudad De México,F,53.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+861,Ciudad De México,F,35.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+862,Ciudad De México,F,60.0,20/03/2020,Confirmado,Estados Unidos,20/03/2020,NA,2020/04/04
+863,Ciudad De México,M,36.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+864,Ciudad De México,M,41.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+865,México,F,41.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+866,Ciudad De México,M,49.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+867,Puebla,M,67.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+868,San Luis Potosí,F,33.0,27/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+869,Tabasco,F,42.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+870,Tabasco,F,57.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+871,Ciudad De México,M,65.0,12/03/2020,Confirmado,Contacto,14/03/2020,NA,2020/04/04
+872,Sinaloa,F,44.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+873,Sonora,F,30.0,16/03/2020,Confirmado,Estados Unidos,26/03/2020,NA,2020/04/04
+874,Guerrero,F,43.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+875,Puebla,F,51.0,24/03/2020,Confirmado,Estados Unidos,21/03/2020,NA,2020/04/04
+876,Sinaloa,M,32.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+877,México,M,35.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+878,México,M,39.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+879,México,F,51.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+880,Coahuila,M,24.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+881,México,M,25.0,16/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+882,Tabasco,M,27.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+883,Nuevo León,F,26.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+884,Sinaloa,F,75.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+885,San Luis Potosí,M,43.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+886,Sonora,F,27.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+887,Sinaloa,M,85.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+888,Coahuila,M,53.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+889,Sinaloa,M,43.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+890,México,F,42.0,22/03/2020,Confirmado,Contacto,14/03/2020,NA,2020/04/04
+891,Nuevo León,M,56.0,23/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+892,Queretaro,F,67.0,20/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+893,Veracruz,M,53.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+894,México,M,29.0,24/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+895,Coahuila,M,42.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+896,Coahuila,M,42.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+897,Morelos,M,44.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+898,México,M,43.0,24/03/2020,Confirmado,Contacto,10/03/2020,NA,2020/04/04
+899,Coahuila,F,28.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+900,México,F,73.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+901,Puebla,M,45.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+902,Chiapas,M,22.0,24/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+903,México,M,46.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+904,Sonora,F,21.0,16/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+905,San Luis Potosí,F,26.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+906,México,M,56.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+907,Chiapas,F,38.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+908,Sonora,F,82.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+909,Tabasco,M,58.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+910,San Luis Potosí,M,21.0,24/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+911,Coahuila,M,41.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+912,Coahuila,M,39.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+913,Chiapas,M,81.0,25/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+914,Coahuila,F,34.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+915,Quintana Roo,F,26.0,22/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+916,Coahuila,F,26.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+917,Ciudad De México,M,42.0,11/03/2020,Confirmado,Estados Unidos,10/03/2020,NA,2020/04/04
+918,Quintana Roo,M,38.0,22/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+919,Coahuila,F,44.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+920,Ciudad De México,M,33.0,12/03/2020,Confirmado,Estados Unidos,06/03/2020,NA,2020/04/04
+921,Coahuila,M,30.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+922,Coahuila,M,30.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+923,Coahuila,F,44.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+924,Guerrero,M,52.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+925,Coahuila,M,39.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+926,Quintana Roo,M,35.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+927,Chiapas,F,45.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+928,Ciudad De México,M,41.0,12/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+929,Ciudad De México,F,43.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+930,Ciudad De México,M,27.0,14/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+931,México,M,35.0,26/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+932,Ciudad De México,M,43.0,11/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+933,México,F,61.0,26/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+934,Quintana Roo,F,52.0,24/03/2020,Confirmado,Contacto,12/03/2020,NA,2020/04/04
+935,Jalisco,F,32.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+936,México,M,46.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+937,México,F,69.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+938,Hidalgo,M,57.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+939,Yucatán,F,78.0,22/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+940,Nuevo León,M,54.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+941,Puebla,M,63.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+942,Puebla,F,67.0,22/03/2020,Confirmado,Francia,22/02/2020,NA,2020/04/04
+943,Puebla,F,69.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+944,Coahuila,F,48.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+945,Ciudad De México,F,67.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+946,Ciudad De México,M,34.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+947,Ciudad De México,F,52.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+948,Ciudad De México,M,32.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+949,Ciudad De México,M,31.0,14/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+950,Ciudad De México,M,50.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+951,México,M,27.0,15/03/2020,Confirmado,Contacto,25/02/2020,NA,2020/04/04
+952,México,M,40.0,14/03/2020,Confirmado,Estados Unidos,26/02/2020,NA,2020/04/04
+953,México,M,24.0,16/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+954,México,F,21.0,17/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+955,México,M,61.0,20/03/2020,Confirmado,Estados Unidos,21/03/2020,NA,2020/04/04
+956,México,M,40.0,09/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+957,Ciudad De México,M,43.0,16/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+958,México,M,25.0,22/03/2020,Confirmado,España,20/03/2020,NA,2020/04/04
+959,México,F,44.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+960,Zacatecas,F,52.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+961,Baja California,M,50.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+962,Aguascalientes,F,58.0,25/03/2020,Confirmado,España,23/03/2020,NA,2020/04/04
+963,Aguascalientes,F,41.0,17/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+964,Aguascalientes,F,24.0,19/03/2020,Confirmado,España,23/03/2020,NA,2020/04/04
+965,Aguascalientes,F,37.0,18/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+966,Puebla,M,42.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+967,Morelos,F,57.0,20/03/2020,Confirmado,Contacto,22/03/2020,NA,2020/04/04
+968,Puebla,M,24.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+969,Ciudad De México,F,67.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+970,México,M,21.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+971,Ciudad De México,M,31.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+972,Baja California,M,56.0,23/03/2020,Confirmado,Contacto,24/03/2020,NA,2020/04/04
+973,Puebla,M,46.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+974,Veracruz,M,43.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+975,Tabasco,M,23.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+976,Ciudad De México,M,33.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+977,Ciudad De México,F,68.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+978,Coahuila,F,25.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+979,Ciudad De México,M,60.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+980,Tabasco,M,50.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+981,Sinaloa,F,40.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+982,Tabasco,F,59.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+983,Baja California,M,18.0,20/03/2020,Confirmado,Contacto,27/03/2020,NA,2020/04/04
+984,Baja California,F,50.0,20/03/2020,Confirmado,Contacto,20/03/2020,NA,2020/04/04
+985,Baja California Sur,M,40.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+986,Tabasco,M,59.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+987,México,M,49.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+988,México,M,56.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+989,México,M,40.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+990,Yucatán,F,30.0,18/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+991,Yucatán,M,34.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+992,Yucatán,F,72.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+993,México,F,33.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+994,México,F,59.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+995,México,F,31.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+996,Zacatecas,F,39.0,21/03/2020,Confirmado,Estados Unidos,27/03/2020,NA,2020/04/04
+997,Oaxaca,F,52.0,27/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+998,Oaxaca,M,44.0,26/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+999,Ciudad De México,M,69.0,15/03/2020,Confirmado,Alemania,14/03/2020,NA,2020/04/04
+1000,Baja California Sur,M,50.0,21/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+1001,Coahuila,M,45.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1002,Sinaloa,F,54.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1003,Coahuila,M,47.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1004,Ciudad De México,M,52.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1005,Ciudad De México,M,69.0,19/03/2020,Confirmado,Francia,13/03/2020,NA,2020/04/04
+1006,Ciudad De México,F,63.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1007,Jalisco,F,53.0,09/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+1008,Ciudad De México,F,73.0,16/03/2020,Confirmado,Italia,15/03/2020,NA,2020/04/04
+1009,Ciudad De México,M,26.0,18/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+1010,Veracruz,F,22.0,20/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+1011,Ciudad De México,F,38.0,14/03/2020,Confirmado,Italia,15/03/2020,NA,2020/04/04
+1012,México,M,22.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1013,Quintana Roo,F,26.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1014,Aguascalientes,M,38.0,18/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+1015,Aguascalientes,M,23.0,25/03/2020,Confirmado,Estados Unidos,23/03/2020,NA,2020/04/04
+1016,Aguascalientes,F,60.0,12/03/2020,Confirmado,España,NA,NA,2020/04/04
+1017,Baja California,F,32.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1018,Aguascalientes,M,43.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1019,Aguascalientes,M,75.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1020,Aguascalientes,M,27.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1021,Sonora,M,59.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1022,Michoacán,F,62.0,20/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+1023,Ciudad De México,F,64.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1024,México,M,51.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1025,Baja California Sur,F,35.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1026,Veracruz,M,48.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1027,Jalisco,M,25.0,23/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+1028,Aguascalientes,F,30.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1029,Coahuila,M,54.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1030,Puebla,M,22.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1031,Puebla,F,38.0,22/03/2020,Confirmado,Estados Unidos,25/03/2020,NA,2020/04/04
+1032,Tamaulipas,M,70.0,24/03/2020,Confirmado,Estados Unidos,24/03/2020,NA,2020/04/04
+1033,Sinaloa,F,69.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1034,Jalisco,M,46.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1035,Guanajuato,F,72.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1036,Michoacán,F,28.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1037,Chiapas,F,28.0,22/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+1038,Guerrero,M,70.0,20/03/2020,Confirmado,Estados Unidos,20/03/2020,NA,2020/04/04
+1039,Michoacán,M,30.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1040,Jalisco,M,16.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1041,Baja California,M,54.0,24/03/2020,Confirmado,Contacto,27/03/2020,NA,2020/04/04
+1042,Baja California,M,51.0,18/03/2020,Confirmado,Contacto,27/03/2020,NA,2020/04/04
+1043,Coahuila,F,45.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1044,México,F,32.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1045,México,F,41.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1046,Queretaro,M,60.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1047,Quintana Roo,M,29.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1048,Guanajuato,M,24.0,22/03/2020,Confirmado,Estados Unidos,27/03/2020,NA,2020/04/04
+1049,Quintana Roo,F,30.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1050,Guanajuato,F,25.0,26/03/2020,Confirmado,Estados Unidos,27/03/2020,NA,2020/04/04
+1051,Guanajuato,M,15.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1052,México,M,48.0,20/03/2020,Confirmado,Contacto,19/03/2020,NA,2020/04/04
+1053,México,F,28.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1054,Tabasco,F,6.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1055,San Luis Potosí,M,55.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1056,Tabasco,F,29.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1057,México,M,42.0,24/03/2020,Confirmado,Contacto,17/03/2020,NA,2020/04/04
+1058,Nuevo León,M,63.0,22/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+1059,Tabasco,F,61.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1060,Tabasco,M,59.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1061,Nuevo León,M,29.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1062,Coahuila,F,76.0,24/03/2020,Confirmado,Estados Unidos,22/03/2020,NA,2020/04/04
+1063,Nuevo León,M,21.0,13/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+1064,Sonora,F,47.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1065,Michoacán,M,44.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1066,México,F,57.0,23/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+1067,Sonora,F,57.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1068,Baja California,F,59.0,19/03/2020,Confirmado,Contacto,12/03/2020,NA,2020/04/04
+1069,México,F,31.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1070,Sinaloa,M,62.0,21/03/2020,Confirmado,Estados Unidos,NA,NA,2020/04/04
+1071,México,M,36.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1072,Guanajuato,M,52.0,21/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+1073,Puebla,M,24.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1074,Puebla,F,49.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1075,Puebla,F,72.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1076,Puebla,F,30.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1077,Puebla,F,24.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1078,Tabasco,M,43.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1079,Guanajuato,M,46.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1080,Yucatán,M,37.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1081,Sinaloa,M,60.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1082,Puebla,F,29.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1083,Puebla,M,32.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1084,Yucatán,M,38.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1085,Jalisco,M,25.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1086,México,M,34.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1087,Tabasco,M,68.0,25/03/2020,Confirmado,España,22/03/2020,NA,2020/04/04
+1088,México,F,54.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1089,Tabasco,F,49.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1090,Tabasco,F,67.0,28/03/2020,Confirmado,España,22/03/2020,NA,2020/04/04
+1091,Baja California Sur,M,33.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1092,Nayarit,M,71.0,23/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+1093,Tabasco,F,20.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1094,Puebla,F,43.0,24/03/2020,Confirmado,Contacto,22/03/2020,NA,2020/04/04
+1095,Puebla,F,75.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1096,Tabasco,M,46.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1097,Tabasco,F,50.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1098,México,F,30.0,20/03/2020,Confirmado,Estados Unidos,23/03/2020,NA,2020/04/04
+1099,Nuevo León,F,22.0,19/03/2020,Confirmado,España,18/03/2020,NA,2020/04/04
+1100,Nuevo León,F,21.0,20/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+1101,Nuevo León,M,34.0,18/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+1102,Nuevo León,M,35.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1103,Baja California,M,54.0,18/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+1104,Ciudad De México,M,59.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1105,Quintana Roo,M,18.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1106,Ciudad De México,M,26.0,20/03/2020,Confirmado,Contacto,29/03/2020,NA,2020/04/04
+1107,Ciudad De México,M,49.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1108,Quintana Roo,M,52.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1109,Ciudad De México,M,34.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1110,Nuevo León,M,30.0,20/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+1111,México,M,41.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1112,Jalisco,M,35.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1113,Tabasco,M,26.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1114,México,M,39.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1115,Tabasco,M,47.0,21/03/2020,Confirmado,Contacto,22/03/2020,NA,2020/04/04
+1116,México,F,57.0,23/03/2020,Confirmado,Estados Unidos,04/03/2020,NA,2020/04/04
+1117,México,M,57.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1118,Coahuila,M,17.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1119,Coahuila,M,48.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1120,Tabasco,F,70.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1121,Ciudad De México,F,77.0,13/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+1122,Ciudad De México,F,43.0,16/03/2020,Confirmado,España,16/03/2020,NA,2020/04/04
+1123,Nuevo León,F,58.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1124,Ciudad De México,M,47.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1125,Jalisco,M,37.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1126,Baja California,F,50.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1127,Puebla,M,30.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1128,Ciudad De México,F,65.0,09/03/2020,Confirmado,España,13/03/2019,NA,2020/04/04
+1129,Ciudad De México,F,56.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1130,Ciudad De México,M,37.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1131,Ciudad De México,F,79.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1132,Ciudad De México,M,49.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1133,Ciudad De México,M,25.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1134,Ciudad De México,F,35.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1135,Ciudad De México,M,47.0,13/03/2020,Confirmado,Estados Unidos,29/02/2020,NA,2020/04/04
+1136,Ciudad De México,F,51.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1137,Ciudad De México,M,47.0,14/03/2020,Confirmado,Estados Unidos,04/03/2020,NA,2020/04/04
+1138,Ciudad De México,M,51.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1139,Ciudad De México,M,48.0,15/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+1140,México,M,36.0,23/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+1141,Ciudad De México,M,71.0,19/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+1142,Ciudad De México,M,59.0,17/03/2020,Confirmado,España,02/03/2020,NA,2020/04/04
+1143,Ciudad De México,F,33.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1144,México,M,27.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1145,Baja California Sur,F,26.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1146,Ciudad De México,M,35.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1147,México,M,69.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1148,Ciudad De México,F,33.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1149,Ciudad De México,M,56.0,11/03/2020,Confirmado,España,06/03/2020,NA,2020/04/04
+1150,Ciudad De México,M,44.0,16/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+1151,Ciudad De México,F,76.0,15/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+1152,Ciudad De México,M,41.0,17/02/2020,Confirmado,Contacto,17/02/2020,NA,2020/04/04
+1153,Ciudad De México,M,32.0,18/03/2020,Confirmado,Estados Unidos,17/02/2020,NA,2020/04/04
+1154,Ciudad De México,M,55.0,17/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+1155,Ciudad De México,F,32.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1156,Ciudad De México,M,45.0,13/03/2020,Confirmado,España,19/03/2020,NA,2020/04/04
+1157,Ciudad De México,F,42.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1158,Puebla,M,48.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1159,Ciudad De México,F,43.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1160,Aguascalientes,M,79.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1161,Aguascalientes,M,8.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1162,Aguascalientes,M,15.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1163,Aguascalientes,M,43.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1164,Jalisco,M,24.0,27/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+1165,Aguascalientes,M,31.0,22/03/2020,Confirmado,Contacto,19/03/2020,NA,2020/04/04
+1166,Hidalgo,M,70.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1167,Ciudad De México,M,40.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1168,México,M,74.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1169,Guanajuato,M,16.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1170,Campeche,M,40.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1171,Campeche,F,60.0,23/02/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1172,México,F,44.0,20/03/2020,Confirmado,Contacto,02/03/2020,NA,2020/04/04
+1173,Ciudad De México,F,52.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1174,México,M,41.0,23/03/2020,Confirmado,Contacto,13/03/2020,NA,2020/04/04
+1175,Guerrero,M,44.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1176,México,F,30.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1177,México,M,24.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1178,Quintana Roo,M,42.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1179,Sinaloa,F,25.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1180,Baja California Sur,M,39.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1181,Quintana Roo,M,47.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1182,México,F,32.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1183,Yucatán,M,65.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1184,Yucatán,M,32.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1185,Quintana Roo,M,49.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1186,Hidalgo,M,56.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1187,Ciudad De México,F,48.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1188,Quintana Roo,M,49.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1189,Coahuila,F,37.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1190,Baja California,F,68.0,17/03/2020,Confirmado,Estados Unidos,22/03/2020,NA,2020/04/04
+1191,Coahuila,M,43.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1192,Morelos,M,37.0,19/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+1193,Coahuila,M,57.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1194,Coahuila,M,43.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1195,Coahuila,F,43.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1196,Baja California,F,49.0,24/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+1197,Sinaloa,M,64.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1198,Chiapas,M,64.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1199,Sinaloa,F,40.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1200,Tabasco,M,47.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1201,Chihuahua,F,55.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1202,Yucatán,F,42.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1203,Queretaro,M,46.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1204,Puebla,M,42.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1205,Baja California,M,70.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1206,Queretaro,M,45.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1207,Ciudad De México,M,56.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1208,Puebla,M,52.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1209,Baja California Sur,F,44.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1210,Guanajuato,F,46.0,24/03/2020,Confirmado,España,NA,NA,2020/04/04
+1211,Puebla,F,64.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1212,Baja California Sur,F,29.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1213,Guanajuato,F,18.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1214,Ciudad De México,M,49.0,14/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+1215,Jalisco,F,38.0,18/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+1216,Jalisco,M,39.0,21/03/2020,Confirmado,Francia,16/03/2020,NA,2020/04/04
+1217,Baja California,M,59.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1218,Tamaulipas,F,19.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1219,Ciudad De México,M,76.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1220,Ciudad De México,F,31.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1221,Ciudad De México,F,29.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1222,Veracruz,M,67.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1223,Sinaloa,M,63.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1224,Coahuila,M,50.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1225,Coahuila,M,39.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1226,Hidalgo,M,38.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1227,Sinaloa,F,89.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1228,Ciudad De México,M,69.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1229,Coahuila,F,33.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1230,Coahuila,F,56.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1231,Sinaloa,M,47.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1232,México,F,43.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1233,Tabasco,F,26.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1234,Chihuahua,M,45.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1235,Ciudad De México,M,75.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1236,Ciudad De México,M,52.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1237,México,M,44.0,17/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+1238,México,F,72.0,23/03/2020,Confirmado,Contacto,12/03/2020,NA,2020/04/04
+1239,Oaxaca,F,32.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1240,México,M,31.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1241,Chiapas,M,44.0,08/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1242,Puebla,M,71.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1243,Tabasco,M,25.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1244,Quintana Roo,M,54.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1245,Coahuila,M,47.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1246,Coahuila,M,26.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1247,Yucatán,F,65.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1248,Yucatán,F,26.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1249,Quintana Roo,M,44.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1250,Queretaro,M,53.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1251,Yucatán,M,65.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1252,Ciudad De México,M,45.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1253,Oaxaca,M,54.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1254,Ciudad De México,M,29.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1255,Ciudad De México,M,71.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1256,Puebla,F,42.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1257,Puebla,F,49.0,23/03/2020,Confirmado,Contacto,31/03/2020,NA,2020/04/04
+1258,Aguascalientes,F,10.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1259,Ciudad De México,F,30.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1260,Sinaloa,M,75.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1261,Tabasco,M,61.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1262,Ciudad De México,M,56.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1263,Ciudad De México,M,11.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1264,Ciudad De México,F,13.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1265,Puebla,F,41.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1266,Ciudad De México,F,52.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1267,Baja California Sur,M,49.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1268,Ciudad De México,M,59.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1269,Ciudad De México,M,59.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1270,Ciudad De México,M,49.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1271,México,M,66.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1272,Ciudad De México,M,54.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1273,Puebla,F,21.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1274,Chihuahua,M,26.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1275,Puebla,F,57.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1276,Ciudad De México,M,30.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1277,Puebla,M,45.0,21/03/2020,Confirmado,Estados Unidos,18/03/2020,NA,2020/04/04
+1278,Sinaloa,M,42.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1279,Sinaloa,F,66.0,21/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+1280,Oaxaca,F,34.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1281,Ciudad De México,F,61.0,18/03/2020,Confirmado,Alemania,18/03/2020,NA,2020/04/04
+1282,Tabasco,F,60.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1283,Tabasco,F,50.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1284,Sinaloa,M,60.0,21/03/2020,Confirmado,Estados Unidos,22/03/2020,NA,2020/04/04
+1285,Sinaloa,M,63.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1286,Michoacán,M,33.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1287,Michoacán,M,49.0,25/03/2020,Confirmado,Contacto,22/03/2020,NA,2020/04/04
+1288,Tabasco,M,44.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1289,Sinaloa,M,47.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1290,Ciudad De México,M,57.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1291,México,M,58.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1292,Nayarit,F,47.0,27/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+1293,Chihuahua,F,57.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1294,Puebla,M,67.0,30/03/2020,Confirmado,Contacto,13/03/2020,NA,2020/04/04
+1295,Tabasco,M,31.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1296,Sinaloa,M,54.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1297,Queretaro,F,56.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1298,Sinaloa,M,75.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1299,Sonora,F,21.0,23/03/2020,Confirmado,Francia,21/03/2020,NA,2020/04/04
+1300,Queretaro,F,35.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1301,Tabasco,F,35.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1302,Ciudad De México,M,86.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1303,San Luis Potosí,F,47.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1304,Ciudad De México,M,50.0,13/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+1305,Ciudad De México,F,29.0,12/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+1306,Sonora,F,17.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1307,Sonora,M,56.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1308,Puebla,M,40.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1309,Puebla,M,49.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1310,Ciudad De México,F,34.0,14/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+1311,Puebla,M,68.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1312,Ciudad De México,M,47.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1313,Puebla,M,49.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1314,Tabasco,M,13.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1315,Puebla,F,59.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1316,Quintana Roo,M,44.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1317,Ciudad De México,M,33.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1318,Ciudad De México,F,56.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1319,Ciudad De México,F,39.0,13/03/2020,Confirmado,Contacto,07/03/2020,NA,2020/04/04
+1320,Ciudad De México,M,38.0,13/03/2020,Confirmado,España,07/03/2020,NA,2020/04/04
+1321,Ciudad De México,M,30.0,13/03/2020,Confirmado,Contacto,06/03/2020,NA,2020/04/04
+1322,Ciudad De México,M,67.0,15/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+1323,Ciudad De México,F,25.0,16/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+1324,Sinaloa,M,52.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1325,Oaxaca,F,22.0,31/03/2020,Confirmado,Contacto,26/03/2020,NA,2020/04/04
+1326,Coahuila,M,60.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1327,Coahuila,M,63.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1328,Coahuila,F,47.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1329,Coahuila,M,51.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1330,Jalisco,F,45.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1331,Sinaloa,F,56.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1332,Jalisco,F,76.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1333,Ciudad De México,F,51.0,09/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+1334,Ciudad De México,M,32.0,07/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1335,Ciudad De México,M,35.0,17/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+1336,Puebla,F,27.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1337,Puebla,F,66.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1338,Yucatán,M,70.0,21/03/2020,Confirmado,Contacto,30/03/2020,NA,2020/04/04
+1339,Ciudad De México,M,42.0,13/03/2020,Confirmado,Francia,18/03/2020,NA,2020/04/04
+1340,Ciudad De México,F,47.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1341,Ciudad De México,M,46.0,12/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+1342,Ciudad De México,M,62.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1343,Puebla,F,50.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1344,Ciudad De México,F,68.0,12/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1345,Ciudad De México,M,59.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1346,Ciudad De México,F,44.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1347,Ciudad De México,F,71.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1348,Ciudad De México,M,45.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1349,Ciudad De México,M,80.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1350,México,F,47.0,15/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+1351,Ciudad De México,F,42.0,09/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1352,México,F,50.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1353,México,F,33.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1354,Morelos,M,68.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1355,Oaxaca,F,61.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1356,Morelos,M,72.0,20/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+1357,Puebla,M,39.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1358,Baja California,M,53.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1359,Tlaxcala,M,29.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1360,Ciudad De México,M,45.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1361,México,F,54.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1362,México,M,34.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1363,México,F,53.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1364,México,M,42.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1365,Aguascalientes,F,51.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1366,México,F,31.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1367,Aguascalientes,F,24.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1368,Guanajuato,M,66.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1369,México,M,29.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1370,Guerrero,M,43.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1371,Coahuila,M,34.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1372,San Luis Potosí,F,36.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1373,Hidalgo,M,47.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1374,San Luis Potosí,M,7.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1375,Sonora,F,65.0,22/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+1376,San Luis Potosí,F,8.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1377,Aguascalientes,F,49.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1378,San Luis Potosí,F,58.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1379,Guerrero,M,59.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1380,Guerrero,M,62.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1381,Jalisco,M,32.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1382,Coahuila,M,58.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1383,Tamaulipas,M,52.0,20/03/2020,Confirmado,Estados Unidos,28/03/2020,NA,2020/04/04
+1384,Michoacán,M,62.0,27/03/2020,Confirmado,Estados Unidos,24/03/2020,NA,2020/04/04
+1385,Quintana Roo,M,45.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1386,México,F,58.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1387,Ciudad De México,F,74.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1388,Ciudad De México,F,26.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1389,Ciudad De México,M,36.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1390,Ciudad De México,M,36.0,22/03/2020,Confirmado,España,20/03/2020,NA,2020/04/04
+1391,Tabasco,F,27.0,19/03/2020,Confirmado,Francia,25/03/2020,NA,2020/04/04
+1392,Aguascalientes,M,51.0,27/03/2020,Confirmado,Estados Unidos,25/03/2020,NA,2020/04/04
+1393,Ciudad De México,M,50.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1394,Ciudad De México,F,39.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1395,Oaxaca,F,35.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1396,Ciudad De México,M,40.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1397,México,M,17.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1398,Jalisco,M,58.0,23/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+1399,Ciudad De México,M,28.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1400,Ciudad De México,F,64.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1401,Ciudad De México,F,50.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1402,Ciudad De México,M,46.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1403,Ciudad De México,M,41.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1404,Ciudad De México,F,27.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1405,Ciudad De México,M,33.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1406,Ciudad De México,F,29.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1407,Ciudad De México,M,30.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1408,Coahuila,F,34.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1409,Ciudad De México,F,26.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1410,Ciudad De México,M,44.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1411,Guanajuato,M,21.0,26/03/2020,Confirmado,España,28/03/2020,NA,2020/04/04
+1412,Colima,M,66.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1413,Ciudad De México,M,27.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1414,Ciudad De México,M,41.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1415,Ciudad De México,M,32.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1416,Ciudad De México,F,40.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1417,Coahuila,M,58.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1418,Ciudad De México,F,33.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1419,San Luis Potosí,F,37.0,28/03/2020,Confirmado,Estados Unidos,27/03/2020,NA,2020/04/04
+1420,Sinaloa,F,62.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1421,Puebla,F,29.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1422,Veracruz,M,36.0,27/03/2020,Confirmado,Contacto,27/03/2020,NA,2020/04/04
+1423,Ciudad De México,F,22.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1424,Baja California Sur,F,79.0,23/03/2020,Confirmado,Contacto,30/03/2020,NA,2020/04/04
+1425,Ciudad De México,F,55.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1426,Ciudad De México,F,38.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1427,Ciudad De México,M,33.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1428,Ciudad De México,F,55.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1429,Ciudad De México,F,33.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1430,Chiapas,M,71.0,25/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+1431,Baja California,M,66.0,28/03/2020,Confirmado,Estados Unidos,22/03/2020,NA,2020/04/04
+1432,Ciudad De México,F,42.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1433,San Luis Potosí,F,37.0,25/03/2020,Confirmado,Estados Unidos,22/03/2020,NA,2020/04/04
+1434,Coahuila,F,43.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1435,Michoacán,M,45.0,25/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+1436,Chihuahua,M,35.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1437,Oaxaca,M,22.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1438,Aguascalientes,F,39.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1439,Aguascalientes,F,6.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1440,Coahuila,F,10.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1441,Nuevo León,M,35.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1442,Jalisco,M,35.0,21/03/2020,Confirmado,Contacto,19/03/2020,NA,2020/04/04
+1443,Oaxaca,M,43.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1444,Coahuila,M,11.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1445,Sinaloa,F,50.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1446,Jalisco,F,44.0,25/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+1447,Ciudad De México,F,65.0,19/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+1448,Guanajuato,M,37.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1449,Ciudad De México,M,29.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1450,Ciudad De México,F,54.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1451,Nayarit,F,79.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1452,Nuevo León,F,46.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1453,San Luis Potosí,F,41.0,27/03/2020,Confirmado,Estados Unidos,17/03/2020,NA,2020/04/04
+1454,Ciudad De México,M,37.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1455,Coahuila,F,75.0,25/03/2020,Confirmado,Estados Unidos,26/03/2020,NA,2020/04/04
+1456,Ciudad De México,M,18.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1457,Baja California,F,48.0,22/03/2020,Confirmado,Estados Unidos,23/03/2020,NA,2020/04/04
+1458,Baja California,F,60.0,28/03/2020,Confirmado,Estados Unidos,20/03/2020,NA,2020/04/04
+1459,Ciudad De México,M,26.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1460,Ciudad De México,M,53.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1461,Baja California,M,15.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1462,Baja California,F,55.0,26/03/2020,Confirmado,Contacto,27/03/2020,NA,2020/04/04
+1463,Tamaulipas,M,65.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1464,Baja California,M,34.0,23/03/2020,Confirmado,Estados Unidos,NA,NA,2020/04/04
+1465,Baja California,F,61.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1466,Baja California,M,53.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1467,Quintana Roo,M,36.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1468,Baja California,M,29.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1469,Baja California,M,22.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1470,Quintana Roo,F,44.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1471,Quintana Roo,M,29.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1472,México,F,68.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1473,México,F,66.0,18/03/2020,Confirmado,Contacto,13/03/2020,NA,2020/04/04
+1474,Jalisco,M,29.0,23/03/2020,Confirmado,Alemania,12/03/2020,NA,2020/04/04
+1475,Baja California,M,61.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1476,Tamaulipas,F,61.0,26/03/2020,Confirmado,Contacto,25/03/2020,NA,2020/04/04
+1477,México,F,56.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1478,México,M,37.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1479,Ciudad De México,F,35.0,28/03/2020,Confirmado,Estados Unidos,22/03/2020,NA,2020/04/04
+1480,Ciudad De México,F,58.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1481,Ciudad De México,F,45.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1482,Tamaulipas,M,56.0,26/03/2020,Confirmado,Estados Unidos,29/03/2020,NA,2020/04/04
+1483,Sinaloa,F,29.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1484,Ciudad De México,F,43.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1485,Tamaulipas,M,55.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1486,México,M,59.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1487,Ciudad De México,F,46.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1488,Chiapas,M,36.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1489,Baja California,M,45.0,21/03/2020,Confirmado,Contacto,30/03/2020,NA,2020/04/04
+1490,Nuevo León,M,37.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1491,México,M,33.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1492,Ciudad De México,M,32.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1493,Ciudad De México,F,56.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1494,Ciudad De México,F,59.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1495,Ciudad De México,M,37.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1496,Hidalgo,F,42.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1497,México,F,71.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1498,Hidalgo,F,26.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1499,Hidalgo,M,47.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1500,Hidalgo,F,58.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1501,Ciudad De México,M,51.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1502,Ciudad De México,M,77.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1503,Veracruz,M,53.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1504,Tabasco,M,56.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1505,Guerrero,F,37.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1506,Guerrero,M,46.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1507,Ciudad De México,M,50.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1508,Ciudad De México,M,44.0,26/02/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1509,Guanajuato,F,76.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1510,Hidalgo,M,48.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1511,Tabasco,F,31.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1512,Puebla,M,48.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1513,Coahuila,F,18.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1514,México,M,39.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1515,Ciudad De México,M,24.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1516,Campeche,M,41.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1517,México,F,29.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1518,Sinaloa,M,60.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1519,Baja California,F,49.0,23/03/2020,Confirmado,Contacto,28/02/2020,NA,2020/04/04
+1520,Tabasco,M,38.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1521,Ciudad De México,M,55.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1522,Ciudad De México,F,34.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1523,Yucatán,M,46.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1524,Tlaxcala,F,42.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1525,Durango,F,57.0,28/03/2020,Confirmado,Estados Unidos,30/03/2020,NA,2020/04/04
+1526,Tlaxcala,F,39.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1527,Quintana Roo,M,35.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1528,Ciudad De México,F,53.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1529,Sinaloa,M,27.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1530,Quintana Roo,M,46.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1531,Chiapas,M,37.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1532,Ciudad De México,M,45.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1533,México,F,65.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1534,Ciudad De México,F,67.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1535,Tabasco,M,45.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1536,Sonora,F,62.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1537,Puebla,F,30.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1538,Sinaloa,M,49.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1539,Puebla,F,56.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1540,Sinaloa,F,40.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1541,Sinaloa,M,51.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1542,México,M,25.0,25/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+1543,Sinaloa,M,71.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1544,México,M,44.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1545,Coahuila,M,37.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1546,Tlaxcala,M,61.0,28/03/2020,Confirmado,Estados Unidos,19/03/2020,NA,2020/04/04
+1547,México,M,45.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1548,Nuevo León,M,50.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1549,Nuevo León,F,47.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1550,Nuevo León,M,57.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1551,Hidalgo,F,44.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1552,Nuevo León,M,54.0,16/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+1553,Quintana Roo,M,48.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1554,México,M,50.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1555,Guerrero,F,31.0,27/03/2020,Confirmado,Estados Unidos,NA,NA,2020/04/04
+1556,Tabasco,F,57.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1557,Tabasco,M,71.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1558,Colima,F,37.0,28/03/2020,Confirmado,Contacto,26/03/2020,NA,2020/04/04
+1559,Puebla,M,33.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1560,Puebla,F,24.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1561,Michoacán,F,82.0,25/03/2020,Confirmado,Contacto,22/03/2020,NA,2020/04/04
+1562,Queretaro,M,47.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1563,Nuevo León,M,68.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1564,Jalisco,M,35.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1565,Puebla,M,29.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1566,Jalisco,M,42.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1567,Nuevo León,M,77.0,23/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+1568,Coahuila,F,49.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1569,Coahuila,F,91.0,27/03/2020,Confirmado,Estados Unidos,25/03/2020,NA,2020/04/04
+1570,Puebla,F,18.0,01/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1571,Ciudad De México,M,27.0,16/03/2020,Confirmado,Contacto,15/03/2020,NA,2020/04/04
+1572,Morelos,F,50.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1573,Coahuila,F,32.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1574,Morelos,M,29.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1575,Jalisco,M,48.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1576,Morelos,F,49.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1577,Coahuila,M,54.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1578,Ciudad De México,M,42.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1579,Guanajuato,F,26.0,17/03/2020,Confirmado,Contacto,16/03/2020,NA,2020/04/04
+1580,Chiapas,M,85.0,21/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+1581,Baja California,F,47.0,19/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+1582,Ciudad De México,M,36.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1583,Ciudad De México,F,65.0,03/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1584,Ciudad De México,M,46.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1585,Hidalgo,M,70.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1586,Hidalgo,F,69.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1587,Ciudad De México,F,25.0,11/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+1588,Zacatecas,M,54.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1589,Aguascalientes,F,59.0,27/03/2020,Confirmado,Contacto,21/03/2020,NA,2020/04/04
+1590,Aguascalientes,M,60.0,24/03/2020,Confirmado,España,15/03/2020,NA,2020/04/04
+1591,Aguascalientes,M,53.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1592,Aguascalientes,F,53.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1593,Sinaloa,F,22.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1594,Sinaloa,M,23.0,19/03/2020,Confirmado,España,17/03/2020,NA,2020/04/04
+1595,Jalisco,F,39.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1596,Guerrero,M,56.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1597,Ciudad De México,F,67.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1598,Jalisco,F,24.0,22/03/2020,Confirmado,España,23/03/2020,NA,2020/04/04
+1599,Ciudad De México,M,39.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1600,Quintana Roo,M,31.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1601,Jalisco,M,68.0,31/03/2020,Confirmado,Estados Unidos,23/03/2020,NA,2020/04/04
+1602,Tabasco,M,47.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1603,Chiapas,M,55.0,27/03/2020,Confirmado,Contacto,31/03/2020,NA,2020/04/04
+1604,Ciudad De México,M,41.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1605,Baja California Sur,F,39.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1606,Ciudad De México,F,82.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1607,Ciudad De México,M,69.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1608,Tabasco,M,48.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1609,Ciudad De México,M,55.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1610,Quintana Roo,M,32.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1611,Tamaulipas,M,31.0,27/03/2020,Confirmado,Francia,14/03/2020,NA,2020/04/04
+1612,Puebla,M,31.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1613,Baja California,F,20.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1614,Guerrero,M,27.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1615,Jalisco,F,53.0,24/02/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+1616,Michoacán,M,51.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1617,Ciudad De México,F,42.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1618,Tamaulipas,F,26.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1619,Aguascalientes,F,55.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1620,Tabasco,F,81.0,28/03/2020,Confirmado,Contacto,25/03/2020,NA,2020/04/04
+1621,Quintana Roo,M,32.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1622,Jalisco,M,47.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1623,Quintana Roo,M,47.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1624,Baja California,M,48.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1625,Ciudad De México,F,57.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1626,Ciudad De México,M,71.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1627,Jalisco,M,48.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1628,Quintana Roo,M,45.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1629,Jalisco,M,76.0,25/03/2020,Confirmado,Estados Unidos,24/03/2020,NA,2020/04/04
+1630,Jalisco,M,39.0,29/03/2020,Confirmado,Francia,26/03/2020,NA,2020/04/04
+1631,México,M,53.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1632,Ciudad De México,F,61.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1633,Ciudad De México,M,49.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1634,Ciudad De México,F,49.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1635,Ciudad De México,M,51.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1636,Ciudad De México,M,42.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1637,Ciudad De México,F,68.0,28/03/2020,Confirmado,Estados Unidos,26/03/2020,NA,2020/04/04
+1638,México,M,32.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1639,Veracruz,F,41.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1640,Guerrero,M,74.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1641,Veracruz,M,42.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1642,Veracruz,F,33.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1643,Tamaulipas,F,42.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1644,Veracruz,F,6.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1645,San Luis Potosí,F,23.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1646,Jalisco,M,70.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1647,Tabasco,F,49.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1648,Quintana Roo,M,37.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1649,Tabasco,F,48.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1650,Chihuahua,M,30.0,23/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+1651,Ciudad De México,M,52.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1652,Tabasco,F,38.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1653,México,F,47.0,01/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1654,Coahuila,F,57.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1655,Tabasco,M,57.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1656,Ciudad De México,M,28.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1657,Ciudad De México,M,46.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1658,Ciudad De México,F,52.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1659,Ciudad De México,F,24.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1660,Guerrero,F,40.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1661,Ciudad De México,F,29.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1662,Ciudad De México,M,83.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1663,Ciudad De México,M,34.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1664,Ciudad De México,M,10.0,17/02/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1665,Ciudad De México,M,48.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1666,Ciudad De México,M,44.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1667,Yucatán,M,33.0,27/03/2020,Confirmado,Estados Unidos,16/03/2020,NA,2020/04/04
+1668,Hidalgo,M,78.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1669,Tabasco,F,65.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1670,Yucatán,F,35.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1671,Veracruz,M,48.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1672,Yucatán,F,42.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1673,Ciudad De México,M,77.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1674,Yucatán,M,51.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1675,Guanajuato,M,62.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1676,Yucatán,F,65.0,23/03/2020,Confirmado,Contacto,31/03/2020,NA,2020/04/04
+1677,Queretaro,F,31.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1678,Tabasco,M,58.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1679,Tabasco,M,34.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1680,Jalisco,M,30.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1681,México,M,53.0,02/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1682,Quintana Roo,M,47.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1683,México,F,34.0,02/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1684,Coahuila,F,40.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1685,Quintana Roo,F,60.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1686,Jalisco,M,41.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1687,Jalisco,M,40.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1688,Jalisco,F,46.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1689,Tamaulipas,F,54.0,23/03/2020,Confirmado,Contacto,23/03/2020,NA,2020/04/04
+1690,Tamaulipas,M,29.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1691,México,M,22.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1692,México,M,32.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1693,México,M,54.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1694,Jalisco,M,71.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1695,Jalisco,M,58.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1696,Ciudad De México,F,77.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1697,Ciudad De México,F,60.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1698,Ciudad De México,M,64.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1699,Ciudad De México,M,42.0,09/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1700,Quintana Roo,F,54.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1701,Baja California Sur,F,37.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1702,Ciudad De México,M,42.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1703,Queretaro,F,37.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1704,San Luis Potosí,M,66.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1705,Ciudad De México,F,34.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1706,Ciudad De México,M,70.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1707,Ciudad De México,M,73.0,23/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+1708,Ciudad De México,M,73.0,14/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1709,Ciudad De México,M,52.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1710,Ciudad De México,M,26.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1711,Sonora,F,43.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1712,Tabasco,M,27.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1713,Veracruz,F,65.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1714,Jalisco,F,26.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1715,Aguascalientes,F,62.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1716,Sinaloa,M,53.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1717,Sinaloa,M,61.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1718,Ciudad De México,M,30.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1719,Ciudad De México,F,64.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1720,Campeche,M,46.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1721,Michoacán,M,36.0,27/03/2020,Confirmado,Estados Unidos,NA,NA,2020/04/04
+1722,Ciudad De México,M,42.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1723,Sinaloa,M,81.0,16/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1724,Michoacán,M,62.0,24/03/2020,Confirmado,Estados Unidos,15/03/2020,NA,2020/04/04
+1725,Ciudad De México,F,67.0,01/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1726,Sinaloa,F,46.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1727,Quintana Roo,M,46.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1728,Sonora,M,49.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1729,Tabasco,M,49.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1730,México,M,26.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1731,Sonora,F,53.0,26/03/2020,Confirmado,Estados Unidos,23/03/2020,NA,2020/04/04
+1732,Tamaulipas,F,64.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1733,Quintana Roo,F,36.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1734,Quintana Roo,F,29.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1735,Ciudad De México,M,71.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1736,México,M,59.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1737,Quintana Roo,M,81.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1738,Puebla,M,61.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1739,Ciudad De México,F,28.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1740,Ciudad De México,M,60.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1741,Puebla,M,26.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1742,Tabasco,F,62.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1743,Ciudad De México,F,60.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1744,Tabasco,F,50.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1745,Ciudad De México,F,33.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1746,Tabasco,F,28.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1747,Veracruz,F,30.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1748,Sinaloa,M,35.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1749,Sinaloa,F,25.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1750,Puebla,F,30.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1751,Ciudad De México,M,36.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1752,Quintana Roo,F,43.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1753,Ciudad De México,M,48.0,12/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+1754,Coahuila,F,74.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1755,Campeche,M,49.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1756,Ciudad De México,F,37.0,10/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1757,Ciudad De México,M,52.0,09/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+1758,Ciudad De México,M,51.0,10/03/2020,Confirmado,España,02/03/2020,NA,2020/04/04
+1759,Ciudad De México,M,3.0,12/03/2020,Confirmado,España,10/03/2020,NA,2020/04/04
+1760,Quintana Roo,M,45.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1761,Sinaloa,M,32.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1762,Ciudad De México,M,0.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1763,Sinaloa,F,62.0,31/03/2020,Confirmado,Estados Unidos,NA,NA,2020/04/04
+1764,México,M,52.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1765,Ciudad De México,F,53.0,12/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+1766,Puebla,M,46.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1767,Ciudad De México,M,36.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1768,Morelos,F,45.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1769,Ciudad De México,F,31.0,11/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1770,Ciudad De México,M,35.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1771,Ciudad De México,M,40.0,06/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+1772,Ciudad De México,M,35.0,12/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+1773,Ciudad De México,M,73.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1774,Sinaloa,F,69.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1775,Baja California Sur,M,39.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1776,Ciudad De México,M,43.0,09/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+1777,Hidalgo,M,42.0,31/03/2020,Confirmado,Estados Unidos,31/03/2020,NA,2020/04/04
+1778,Ciudad De México,M,55.0,11/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+1779,Sinaloa,M,83.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1780,Ciudad De México,F,22.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1781,Sinaloa,F,80.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1782,Puebla,M,60.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1783,Sinaloa,M,50.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1784,Tabasco,F,47.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1785,Tabasco,M,47.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1786,Chiapas,M,44.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1787,Sinaloa,F,65.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1788,Quintana Roo,M,44.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1789,Tabasco,F,19.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1790,Ciudad De México,M,48.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1791,Zacatecas,M,29.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1792,Nayarit,M,48.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1793,Sinaloa,M,33.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1794,Sinaloa,M,75.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1795,Sinaloa,M,33.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1796,Puebla,F,30.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1797,Puebla,M,24.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1798,Sinaloa,M,41.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1799,Puebla,M,39.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1800,Sinaloa,F,32.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1801,Tabasco,M,49.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1802,Ciudad De México,F,55.0,25/02/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1803,Sinaloa,M,39.0,02/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1804,Sonora,F,59.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1805,Durango,M,71.0,19/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1806,Ciudad De México,F,44.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1807,Ciudad De México,F,13.0,09/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+1808,Ciudad De México,F,50.0,14/03/2020,Confirmado,Contacto,06/03/2020,NA,2020/04/04
+1809,Guanajuato,F,73.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1810,Ciudad De México,F,5.0,14/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+1811,Jalisco,M,56.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1812,Ciudad De México,M,21.0,07/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+1813,Nuevo León,M,62.0,25/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1814,Ciudad De México,F,55.0,13/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+1815,Sinaloa,F,57.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1816,Ciudad De México,F,40.0,12/03/2020,Confirmado,Estados Unidos,13/03/2020,NA,2020/04/04
+1817,Morelos,M,46.0,23/03/2020,Confirmado,Contacto,18/03/2020,NA,2020/04/04
+1818,Ciudad De México,M,44.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1819,Ciudad De México,M,23.0,29/02/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+1820,Durango,M,73.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1821,Ciudad De México,F,41.0,11/03/2020,Confirmado,Estados Unidos,12/03/2020,NA,2020/04/04
+1822,Puebla,F,49.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1823,Ciudad De México,M,22.0,13/03/2020,Confirmado,España,12/03/2020,NA,2020/04/04
+1824,Ciudad De México,M,38.0,10/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+1825,Ciudad De México,F,20.0,08/03/2020,Confirmado,Singapur,23/02/2020,NA,2020/04/04
+1826,Puebla,F,28.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1827,Ciudad De México,F,42.0,11/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+1828,Ciudad De México,M,52.0,13/03/2020,Confirmado,Estados Unidos,14/03/2020,NA,2020/04/04
+1829,Puebla,M,31.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1830,Ciudad De México,M,35.0,15/03/2020,Confirmado,China,08/03/2020,NA,2020/04/04
+1831,Ciudad De México,F,11.0,13/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+1832,Ciudad De México,M,24.0,04/03/2020,Confirmado,Estados Unidos,08/03/2020,NA,2020/04/04
+1833,Puebla,F,32.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1834,Queretaro,M,49.0,30/01/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1835,Ciudad De México,F,75.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1836,Ciudad De México,F,41.0,12/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+1837,Ciudad De México,M,22.0,01/03/2020,Confirmado,España,13/03/2020,NA,2020/04/04
+1838,Hidalgo,M,33.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1839,Ciudad De México,M,46.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1840,Puebla,M,27.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1841,Ciudad De México,M,63.0,14/03/2020,Confirmado,España,11/03/2020,NA,2020/04/04
+1842,Ciudad De México,F,47.0,10/03/2020,Confirmado,España,08/03/2020,NA,2020/04/04
+1843,Ciudad De México,M,46.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1844,Baja California Sur,M,39.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1845,Ciudad De México,M,48.0,15/03/2020,Confirmado,Estados Unidos,09/03/2020,NA,2020/04/04
+1846,Puebla,F,25.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1847,Ciudad De México,F,42.0,15/03/2020,Confirmado,Estados Unidos,14/02/2020,NA,2020/04/04
+1848,Puebla,F,33.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1849,Ciudad De México,M,33.0,15/03/2020,Confirmado,España,14/03/2020,NA,2020/04/04
+1850,Ciudad De México,F,41.0,14/03/2020,Confirmado,Estados Unidos,01/03/2020,NA,2020/04/04
+1851,Ciudad De México,M,48.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1852,Ciudad De México,F,40.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1853,Baja California Sur,M,55.0,03/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1854,Ciudad De México,F,34.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1855,Baja California,F,37.0,26/03/2020,Confirmado,Contacto,26/03/2020,NA,2020/04/04
+1856,Ciudad De México,M,56.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1857,Baja California Sur,M,43.0,31/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1858,Baja California Sur,F,33.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1859,Sinaloa,F,38.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1860,Baja California Sur,M,56.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1861,Puebla,F,30.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1862,Nuevo León,M,66.0,21/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1863,Tlaxcala,M,70.0,02/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1864,Chihuahua,M,27.0,29/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1865,Ciudad De México,F,30.0,30/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1866,Nuevo León,M,77.0,13/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1867,Sinaloa,F,66.0,24/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1868,Sinaloa,F,35.0,02/04/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1869,Ciudad De México,M,27.0,02/03/2020,Confirmado,España,02/03/2020,NA,2020/04/04
+1870,Yucatán,M,45.0,24/03/2020,Confirmado,Contacto,31/03/2020,NA,2020/04/04
+1871,Ciudad De México,F,48.0,13/03/2020,Confirmado,Estados Unidos,07/03/2020,NA,2020/04/04
+1872,Yucatán,M,36.0,23/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1873,Yucatán,M,68.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1874,Ciudad De México,F,29.0,18/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1875,Ciudad De México,M,73.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1876,Quintana Roo,M,53.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1877,Zacatecas,M,57.0,17/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1878,Zacatecas,M,70.0,19/03/2020,Confirmado,Contacto,19/03/2020,NA,2020/04/04
+1879,Quintana Roo,F,39.0,27/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1880,Sonora,F,29.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1881,Ciudad De México,M,50.0,15/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1882,Coahuila,M,50.0,22/03/2020,Confirmado,Contacto,22/03/2020,NA,2020/04/04
+1883,Ciudad De México,F,43.0,22/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1884,Ciudad De México,F,27.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1885,Ciudad De México,M,68.0,19/03/2020,Confirmado,Estados Unidos,29/03/2020,NA,2020/04/04
+1886,Ciudad De México,F,49.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1887,Ciudad De México,M,53.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1888,Ciudad De México,F,49.0,28/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1889,Ciudad De México,F,61.0,20/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
+1890,Ciudad De México,F,28.0,26/03/2020,Confirmado,Contacto,NA,NA,2020/04/04
